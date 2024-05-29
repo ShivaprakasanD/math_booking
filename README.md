@@ -5,7 +5,8 @@ Extract the zip
 then go to project root direftory 
 
 Please execute the following commands.
-
+git clone in below url repo
+## https://github.com/ShivaprakasanD/math_booking.git
 ## composer install
 
 ## php artisan migrate
