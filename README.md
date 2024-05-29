@@ -6,11 +6,11 @@ then go to project root direftory
 
 Please execute the following commands.
 
-##composer install
+## composer install
 
-##php artisan migrate
+## php artisan migrate
 
-##php artisan make:seeder DatabaseSeeder
+## php artisan make:seeder DatabaseSeeder
 
 
 testing url in localhost(Xammp)
